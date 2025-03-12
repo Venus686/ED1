@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1713947277 source:c:\users\leonl\desktop\practica1ed\main.cpp
+	"comun.h"
+
+1713898130 c:\users\leonl\desktop\practica1ed\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"GestorClientes.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+
+1712139232 source:c:\users\leonl\desktop\practica1ed\src\gestorclientes.cpp
+	"comun.h"
+	"GestorClientes.h"
+	<iomanip>
+	"comun.h"
+
+1711099259 c:\users\leonl\desktop\practica1ed\include\gestorclientes.h
+	"comun.h"
+
+1710935302 c:\users\leonl\desktop\practica1ed\include\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"GestorClientes.h"
+
+1713907864 c:\users\leonl\desktop\practica1ed\gestorclientes.h
+	"comun.h"
+
+1712486745 source:c:\users\leonl\desktop\practica1ed\src\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+	"comun.h"
+	<iomanip>
+
+1711817821 c:\users\leonl\desktop\practica1ed\include\gestorvehiculos.h
+	"comun.h"
+
+1713773278 c:\users\leonl\desktop\practica1ed\gestorvehiculos.h
+	"comun.h"
+
+1713944454 source:c:\users\leonl\desktop\practica1ed\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+	"comun.h"
+	<iomanip>
+
+1713948544 source:c:\users\leonl\desktop\practica1ed\gestorclientes.cpp
+	"comun.h"
+	"GestorClientes.h"
+	<iomanip>
+
+1713950007 source:c:\users\leonl\desktop\practica1ed\gestoralquiler.cpp
+	"GestorAlquiler.h"
+	"comun.h"
+
+1713881984 c:\users\leonl\desktop\practica1ed\gestoralquiler.h
+	"comun.h"
+
+1713950008 source:c:\users\usuario\desktop\practica1ed\gestoralquiler.cpp
+	"GestorAlquiler.h"
+	"comun.h"
+
+1713881986 c:\users\usuario\desktop\practica1ed\gestoralquiler.h
+	"comun.h"
+
+1713898132 c:\users\usuario\desktop\practica1ed\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"GestorClientes.h"
+	"GestorVehiculos.h"
+	"GestorAlquiler.h"
+
+1713907866 c:\users\usuario\desktop\practica1ed\gestorclientes.h
+	"comun.h"
+
+1713952042 c:\users\usuario\desktop\practica1ed\gestorvehiculos.h
+	"comun.h"
+
+1713948546 source:c:\users\usuario\desktop\practica1ed\gestorclientes.cpp
+	"comun.h"
+	"GestorClientes.h"
+	<iomanip>
+
+1713955633 source:c:\users\usuario\desktop\practica1ed\main.cpp
+	"comun.h"
+
+1713956100 source:c:\users\usuario\desktop\practica1ed\gestorvehiculos.cpp
+	"GestorVehiculos.h"
+	"comun.h"
+	<iomanip>
+
