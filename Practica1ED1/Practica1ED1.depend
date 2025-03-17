@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1741891983 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\main.cpp
+	<iostream>
+	"Torneo.h"
+
+1741894000 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\src\torneo.cpp
+	"Torneo.h"
+	<cstring>
+
+1741814699 c:\users\leonl\desktop\c++\practica1\practica1ed1\include\torneo.h
+	<fstream>
+	<iostream>
+
+1741903932 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1741903572 c:\users\leonl\desktop\c++\practica1\practica1ed1\include\clasificacion.h
+
