@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1741891983 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\main.cpp
+	<iostream>
+	"Torneo.h"
+
+1741894000 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\src\torneo.cpp
+	"Torneo.h"
+	<cstring>
+
+1741814699 c:\users\leonl\desktop\c++\practica1\practica1ed1\include\torneo.h
+	<fstream>
+	<iostream>
+
+1741903932 source:c:\users\leonl\desktop\c++\practica1\practica1ed1\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1741903572 c:\users\leonl\desktop\c++\practica1\practica1ed1\include\clasificacion.h
+
+1742473665 source:c:\users\leonl\desktop\ed1\practica1\practica1ed1\main.cpp
+	<iostream>
+	"Torneo.h"
+
+1741814699 c:\users\leonl\desktop\ed1\practica1\practica1ed1\include\torneo.h
+	<fstream>
+	<iostream>
+
+1741903932 source:c:\users\leonl\desktop\ed1\practica1\practica1ed1\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1741903572 c:\users\leonl\desktop\ed1\practica1\practica1ed1\include\clasificacion.h
+
+1742475020 source:c:\users\leonl\desktop\ed1\practica1\practica1ed1\src\torneo.cpp
+	"Torneo.h"
+	<cstring>
+
+1742475089 source:c:\users\leonl\desktop\practica1ed1\main.cpp
+	<iostream>
+	"Torneo.h"
+
+1741814699 c:\users\leonl\desktop\practica1ed1\include\torneo.h
+	<fstream>
+	<iostream>
+
+1742476316 source:c:\users\leonl\desktop\practica1ed1\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1741903572 c:\users\leonl\desktop\practica1ed1\include\clasificacion.h
+
+1742475020 source:c:\users\leonl\desktop\practica1ed1\src\torneo.cpp
+	"Torneo.h"
+	<cstring>
+
+1742685077 source:c:\users\leonl\desktop\ed1\practica1ed1\main.cpp
+	<iostream>
+	"Torneo.h"
+
+1742663695 c:\users\leonl\desktop\ed1\practica1ed1\include\torneo.h
+	<fstream>
+	<iostream>
+
+1742684878 source:c:\users\leonl\desktop\ed1\practica1ed1\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1741903572 c:\users\leonl\desktop\ed1\practica1ed1\include\clasificacion.h
+
+1742684943 source:c:\users\leonl\desktop\ed1\practica1ed1\src\torneo.cpp
+	"Torneo.h"
+	<cstring>
+	"Clasificacion.h"
+
