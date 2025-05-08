@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1717537571 source:c:\users\leonl\desktop\practica 2 ed\practica_ed_2\main.cpp
+	"comun.h"
+
+1717523656 source:c:\users\leonl\desktop\practica 2 ed\practica_ed_2\lista.cpp
+	"comun.h"
+
+1717534613 c:\users\leonl\desktop\practica 2 ed\practica_ed_2\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<conio.h>
+	"lista.h"
+	"cola.h"
+	"structs.h"
+	"Festival.h"
+
+1714991177 c:\users\leonl\desktop\practica 2 ed\practica_ed_2\structs.h
+	"comun.h"
+
+1714751573 c:\users\leonl\desktop\practica 2 ed\practica_ed_2\cola.h
+	"comun.h"
+
+1717523567 c:\users\leonl\desktop\practica 2 ed\practica_ed_2\lista.h
+	"comun.h"
+
+1717531892 c:\users\leonl\desktop\practica 2 ed\practica_ed_2\festival.h
+	"comun.h"
+
+1715002575 source:c:\users\leonl\desktop\practica 2 ed\practica_ed_2\cola.cpp
+	"comun.h"
+
+1717541620 source:c:\users\leonl\desktop\practica 2 ed\practica_ed_2\festival.cpp
+	"Festival.h"
+	"comun.h"
+
+1717543160 source:d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\cola.cpp
+	"comun.h"
+
+1717543161 d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<conio.h>
+	"lista.h"
+	"cola.h"
+	"structs.h"
+	"Festival.h"
+
+1717546718 d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\lista.h
+	"comun.h"
+
+1717543160 d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\cola.h
+	"comun.h"
+
+1717543161 d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\structs.h
+	"comun.h"
+
+1717543161 d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\festival.h
+	"comun.h"
+
+1717549035 source:d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\festival.cpp
+	"Festival.h"
+	"comun.h"
+
+1717546653 source:d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\lista.cpp
+	"comun.h"
+
+1717548575 source:d:\downloads\practica 2 ed 1\practica 2 ed\practica_ed_2\main.cpp
+	"comun.h"
+
+1717543160 source:c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\cola.cpp
+	"comun.h"
+
+1717543161 c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\comun.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<conio.h>
+	"lista.h"
+	"cola.h"
+	"structs.h"
+	"Festival.h"
+
+1717546718 c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\lista.h
+	"comun.h"
+
+1717543160 c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\cola.h
+	"comun.h"
+
+1717543161 c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\structs.h
+	"comun.h"
+
+1717543161 c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\festival.h
+	"comun.h"
+
+1717549035 source:c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\festival.cpp
+	"Festival.h"
+	"comun.h"
+
+1717546653 source:c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\lista.cpp
+	"comun.h"
+
+1717548575 source:c:\users\leonl\desktop\practica 2 ed\practica 2 ed\practica_ed_2\main.cpp
+	"comun.h"
+
